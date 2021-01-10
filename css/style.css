@@ -1,0 +1,138 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+  body{
+  	font-size: 14px;
+  	line-height: 24px;
+  }
+  h1,h2,h3,h4,h5,h6{
+
+  }
+  a,a:hover{
+  	text-decoration: none;
+  }
+  .title{
+  	width: 100%;
+  	text-align: center;
+  	margin-bottom: 40px;
+  	margin-top: 80px;
+  	color: #506a85;
+  }
+   .header{
+   	width: 100%;
+   }
+  .top.header{
+  	width: 100%;
+  	background-color:  #f5f7fa;
+  	padding: 5px 0px;
+  }
+  .info{
+  	width: 100%;
+  }
+  .info ul{
+  	width: 100%;
+  	display: block;
+  	margin: 0px,
+
+  }
+  .info ul li{
+list-style: none;
+display: inline-block;
+  }
+   .info ul li a{
+  	font-size: 12px;
+  	line-height: 22px;
+  	font-weight: 500;
+  	color: #506a85;
+  	margin-right:10px;
+  }
+   .info ul li a .fa{
+
+   margin-right:5px;
+  }
+    .social{
+  	width: 100%;
+  }
+
+  .social ul{
+width: 100%;
+  	display: block;
+  	margin: 0px;
+  	text-align: right;
+  }
+ .social ul li{
+list-style: none;
+display: inline-block;
+
+  }
+  .social ul li a{
+  font-weight: 400;
+  	color: #506a85;
+  	margin-right:10px;
+
+  }
+   .social ul li a .fa{
+    margin-right:5px;
+
+  }
+  .main-menu{
+  	width: 100%;
+	
+}
+  .main-menu .bg-light {
+    background-color: transparent !important;
+}
+ .main-menu .navbar-light .navbar-nav .nav-link{
+ 		font-size: 14px;
+  	line-height: 22px;
+  	font-weight: 500;
+  	color: #506a85;
+  	margin:0px 15px;
+ }
+ .main-menu .navbar-light .navbar-nav .nav-link:hover
+ .main-menu .navbar-light .navbar-nav .nav-link:focus{
+color: #00bc9c;
+ }
+ .nav-item .nav-link .active{
+ 	margin-left: 30px;
+ }
+ .btn-info{
+ 	background-color: #00bc9c;
+ 	padding: 5px 15px;
+ 	margin-bottom: 28px;
+
+ }
+ .who-we{
+ 	width: 100%;
+ 	padding: 80px 0px;
+ }
+.who-we .card{
+	border: none;
+}
+.who-we .card img {
+	margin-top: 15px;
+}
+
+
+
+
+
+
+/*<div class="card mb-3" style="max-width: 540px;">
+  <div class="row g-0">
+    <div class="col-md-4">
+      <img src="..." alt="...">
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title">Card title</h5>
+        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+        <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
